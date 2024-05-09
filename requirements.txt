@@ -1,7 +1,7 @@
 numpy
 scipy
 matplotlib
-protobuf==3.20.1
+protobuf==3.20.2
 pynput==1.7.6
 mediapipe
 opencv_python==4.5.5.64
